@@ -1,4 +1,1 @@
-Arrived late to the party at 16 December, but decided I wanted to have some fun with [Advent of Code](adventofcode.com)
-
-## Learned so far
-- The power of regex (day 2)
+I joined [Advent of Code](adventofcode.com) for the first time in 2023, halfway through December. There is a subfolder for every year, where I will also be keeping a list of stuff I learned while having fun :)
