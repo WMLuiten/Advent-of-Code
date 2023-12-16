@@ -10,7 +10,7 @@ for line in game_input:
     numeric_entries.append(nums)
     dots.append(dot)
     syms.append(sym)
-    indices = [[i for i,val in enumerate(sym_list) if val == 1] for sym_list in syms]
+indices = [[i for i,val in enumerate(sym_list) if val == 1] for sym_list in syms]
 
 # Find the part numbers. Part numbers are adjecent (also diagonally) to a symbol.
 # The entries where syms = 1 represent the symbols. Now we only have to find the adjecent numbers.
